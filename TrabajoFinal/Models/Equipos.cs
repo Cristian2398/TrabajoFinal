@@ -4,7 +4,7 @@ using System.Text;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace TrabajoFinal.Models
-{
+{ 
     class Equipos
     {
         [BsonId]
