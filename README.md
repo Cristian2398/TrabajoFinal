@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0. Correcciones: Grafica, código de inserciones y consultas (torneo, partidos)
 
 1. Crear esquemas de validación para cada una de las colecciones definidas.
